@@ -10,4 +10,3 @@ This organization contains repositories to build AOSP ROMs for Redmi Note 11/NFC
 
 ### Other required repositories
 * [**Xiaomi Hardware**](https://github.com/lineageos/android_hardware_xiaomi.git) (`android_hardware_xiaomi`)
-* [**MiuiCamera**](https://github.com/xiaomi-spes-devs/miuicamera-spes.git) (`miuicamera-spes`)
