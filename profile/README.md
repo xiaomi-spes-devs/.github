@@ -14,4 +14,4 @@ This organization contains repositories to build AOSP ROMs for Redmi Note 11/NFC
 
 ### Relevant patches required
 
-*  [**Patches**](https://github.com/Angxddeep/android_vendor_extra/tree/seventeen/patches/spes)
+*  [**Patches**](https://github.com/xiaomi-spes-devs/android_vendor_patches-spes)
